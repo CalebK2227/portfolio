@@ -1,0 +1,160 @@
+Script started on 2021-09-14 21:15:10-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="131" LINES="13"]
+]0;spike@SpikeDaComputer: ~/CSE113/lab2[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab2[00m$ ./rock
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: R
+Player's play is ROCK
+Computer's play is LIZARD
+Player Wins!
+Rock crushes Lizards
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: S
+Player's play is SCISSORS
+Computer's play is ROCK
+Computer Wins!
+Rock crushes scissors
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: L
+Player's play is LIZARD
+Computer's play is SCISSORS
+Computer Wins!
+Scissors decapitates Lizard
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: V
+Player's play is SPOCK
+Computer's play is SPOCK
+Player Wins!
+Player wins ties!
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: P
+Player's play is PAPER
+Computer's play is SCISSORS
+Computer Wins!
+Scissors cuts paper
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: S
+Player's play is SCISSORS
+Computer's play is ROCK
+Computer Wins!
+Rock crushes scissors
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: L
+Player's play is LIZARD
+Computer's play is SCISSORS
+Computer Wins!
+Scissors decapitates Lizard
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: V
+Player's play is SPOCK
+Computer's play is SCISSORS
+Player Wins!
+Spock smashes scissors
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: P
+Player's play is PAPER
+Computer's play is ROCK
+Player Wins!
+Paper covers rock.
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: S
+Player's play is SCISSORS
+Computer's play is SPOCK
+Computer Wins!
+Spock smashes scissors
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: R
+Player's play is ROCK
+Computer's play is LIZARD
+Player Wins!
+Rock crushes Lizards
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: L
+Player's play is LIZARD
+Computer's play is PAPER
+Player Wins!
+Lizard eats paper.
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: Q
+Thanks for playing!
+Bye!
+]0;spike@SpikeDaComputer: ~/CSE113/lab2[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab2[00m$ exit
+exit
+
+Script done on 2021-09-14 21:15:59-06:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,16 @@
+Script started on 2021-08-27 10:20:30-06:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="85" LINES="13"]
+]0;spike@SpikeDaComputer: ~/CSE113/lab0[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab0[00m$ ./name
+  CCCCCCCCC                      ll                       b
+CC         CC                     l                       b
+C                                 l                       b
+C                                 l                       b
+C                                 l                       b
+C                    aaaa         l         eeee          b bbbb
+C                  aa    aa       l       ee    ee        bb    b
+C                  a      a       l       eeeeeeee        bb    b
+CC         CC      aa    aa       l       e               bb    b
+  CCCCCCCCC          aaaa  a      ll       eeeeeee        bbbbbb
+]0;spike@SpikeDaComputer: ~/CSE113/lab0[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab0[00m$ exit
+exit
+
+Script done on 2021-08-27 10:20:38-06:00 [COMMAND_EXIT_CODE="0"]

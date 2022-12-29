@@ -1,0 +1,25 @@
+Caleb Krcil
+2021-09-14
+Lab 2
+
+Purpose: Plays rock spock lizard with computer and player, calculates 
+geometry based on user input, determines closest flight departure time
+based on user input, and takes a user inputted number and prints out
+its english word.
+
+Conclusion:
+
+a) What I learned:
+I learned how to make switch statements and if else statements and use them
+to determine things in certain cases. I also learned how to create while loops.
+
+b)Bug Report
+I had quite a few issues with my code but they were mostly sytax error and were
+easily fixed by reading over where the warnings were.
+Whenever my lab2 file is compiled it does come up with a warning however the 
+warning does not affect how the code runs as far as I can tell.
+
+
+d) Improvements that could be made
+I could probably make my code more effecient but I'm not sure how to right now
+I could also improve upon the user interface a little bit.

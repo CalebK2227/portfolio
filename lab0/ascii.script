@@ -1,0 +1,24 @@
+Script started on 2021-08-27 11:34:59-06:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="85" LINES="13"]
+]0;spike@SpikeDaComputer: ~/CSE113/lab0[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab0[00m$ gcc -g -Wall -o ascii
+[01m[Kgcc:[m[K [01;31m[Kfatal error: [m[Kno input files
+compilation terminated.
+]0;spike@SpikeDaComputer: ~/CSE113/lab0[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab0[00m$ gcc -g -Wall acs[K[Kscii.c -o ascii
+]0;spike@SpikeDaComputer: ~/CSE113/lab0[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab0[00m$ ./ascii
+______________________________                                /|__ 
+|                            |                          __/|_/    |___ 
+|                            |                  ssss    |            / 
+|   _______        _______   |         tss   sss        /            |   
+|   |     |        |     |   |            sss          /__ BOOOOMMM!! | 
+|   |     |        |     |   |                           /            _| 
+|   |_____|________|_____|   |                          /__  /| ____/ 
+|         |        |         |                             |/ |/ 
+|      ___|        |___      |
+|      |              |      |
+|      |   ________   |      |    Issa Creeper from Minecraft!
+|      |  |        |  |      |
+|      |__|        |__|      |
+|____________________________|
+]0;spike@SpikeDaComputer: ~/CSE113/lab0[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab0[00m$ exit
+exit
+
+Script done on 2021-08-27 11:36:08-06:00 [COMMAND_EXIT_CODE="0"]

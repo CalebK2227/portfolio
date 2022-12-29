@@ -1,0 +1,43 @@
+Script started on 2021-09-05 20:59:17-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="130" LINES="13"]
+]0;spike@SpikeDaComputer: ~/CSE113/lab1[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab1[00m$ exitscriptend script[K./lab1gcc -g -Wall lab1.c -o lab1 -lm
+]0;spike@SpikeDaComputer: ~/CSE113/lab1[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab1[00m$ gcc -g -Wall lab1.c -o lab1 -lmexit[Kscriptend script[K./lab1
+        ------Welcome to Caleb's Calculator!!! (For Geometry)------
+
+Enter the length of the rectangle as an integer:
+6
+Enter the width of the rectangle as an integer:
+8
+        ------Rectangle Calculations------
+
+The area of the rectangle is: 48.000000
+The perimeter of the rectangle is: 28.000000
+Enter the radius of the cirlce as a floating point number:
+8.0
+        ------Circle Calculations------
+
+The area of the circle is: 201.061930
+The circumference of the circle is: 50.265482
+Enter the height of the triangle as a floating point number:
+7.0
+Enter the base of the triangle as a floating point number:
+5.0
+        ------Triangle Calculations------
+
+The area of the triangle is: 17.500000
+The length of the hypotenuse is 8.602325
+The perimeter of the triangle is: 20.602325
+Enter the number of sides of the regular polygon as an integer:
+8
+Enter the length of the side of the regular polygon as a floating point number:
+7.0
+Enter the length of the apothem of the regular polygon as a floating point number:
+8.0
+        ------Regular Polygon Calculations------
+
+The exterior angle of the polygon is: 45.000000
+The interior angle of the polygon is: 135.000000
+The area of the polygon is: 224.000000
+]0;spike@SpikeDaComputer: ~/CSE113/lab1[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab1[00m$ exit
+exit
+
+Script done on 2021-09-05 21:00:04-06:00 [COMMAND_EXIT_CODE="0"]

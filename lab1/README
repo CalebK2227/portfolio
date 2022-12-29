@@ -1,0 +1,32 @@
+Caleb Krcil
+2021-09-02
+Lab 1
+
+Purpose: To use functions to calculate geometric values based on user input.
+
+Conclusion:
+
+a) What I learned:
+I learned how to call functions from main and scan user input and run 
+that input through the functions in order to return and print a
+result, this time in the form of geometric calculations.
+
+b)Bug Report
+After I had resolved a few syntax errors with my code, which were basically a
+few forgotten semi-colons, the program compiled without issues. However, 
+when I tried to execute the program, the terminal gave me an error stating
+that I did not have permission to execute, which may have been caused 
+by me not giving myself the right permissions in VSCode. But I had already sat
+down and written the code in one sitting so I took a break and came back the
+next day, where the code compiled and ran without issue, so I'm not 
+entirely sure what happened but the issue was fixed somehow.
+
+The only other issue I had was that the hypotenuse function was not called
+correctly in the perimeter function because I accidentaly wrote two equal
+signs instead of just one, but deleting one fixed it and the code ran and
+returned the correct values.
+
+d) Improvements that could be made
+In the future I would like to improve the look of the program so that
+the calculations for different shapes are seperated more and the program
+as a whole is easier to read.
