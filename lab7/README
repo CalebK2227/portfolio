@@ -1,0 +1,23 @@
+Caleb Krcil
+2021-30-10
+Lab 7
+
+Purpose: Create programs that utilize pointer arithmetic and dynamic
+to access array values.
+
+Conclusion:
+
+a) What I learned:
+I learned how to use pointer arithmetic to access arrays and how to dynamically
+allocate using malloc
+
+b)Pair Programming
+Working with a partner for the prelab did help me understand how pointer 
+arithmetic works.
+
+b)Bug Report
+No bugs as far as I know
+
+
+d) Improvements that could be made
+None

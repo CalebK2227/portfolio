@@ -1,0 +1,15 @@
+a[0] = 4
+a[1] = 6
+a[2] = 2
+a[3] = 4
+a[4] = 9
+a[5] = 11
+a[6] = 14
+a[7] = 16
+a[8] = 1
+a[9] = 15
+a[10] = 3
+max of array=16
+min of array=1
+The average of the array=7
+The median of the array=14

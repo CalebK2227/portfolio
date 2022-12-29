@@ -1,0 +1,27 @@
+Caleb Krcil
+2021-21-10
+Lab 6
+
+Purpose: Create programs that utilize arrays and structs to pass and store
+data, as well as calculate values based on that data.
+
+Conclusion:
+
+a) What I learned:
+I learned how to use arrays and structs to pass and store data, and how to
+make a program that acts as a log for various data types.
+
+b)Pair Programming
+Working with a partner for the prelab did help me understand how to make 
+a makefile.
+
+b)Bug Report
+For the zombie program there are no checks for things like correct times, 
+which I didnt add as the lab did not specify if they were needed or not, also
+depending on if I figured it out or not the sundays program may not work 
+correctly (I did it and it works now)
+
+
+d) Improvements that could be made
+I could add checks in the zombie program in order to see if entered values are
+correct or not

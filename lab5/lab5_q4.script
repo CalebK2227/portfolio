@@ -1,0 +1,19 @@
+Script started on 2021-10-10 12:29:25-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="131" LINES="11"]
+]0;spike@SpikeDaComputer: ~/CSE113/lab5[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab5[00m$ ./lab5_q4
+bash: ./lab5_q4: No such file or directory
+]0;spike@SpikeDaComputer: ~/CSE113/lab5[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab5[00m$ ./lab5_4
+Please enter your birthdate in the form month/date/year, ex: 4/23/15
+7/27/2003
+July 27, Leo
+Would you like to continue and enter more dates?
+Type 1 to continue and 2 to quit.1
+Please enter your birthdate in the form month/date/year, ex: 4/23/15
+3/24/4 2008
+March 24, Aries
+Would you like to continue and enter more dates?
+Type 1 to continue and 2 to quit.2
+Laters dude
+]0;spike@SpikeDaComputer: ~/CSE113/lab5[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab5[00m$ exit
+exit
+
+Script done on 2021-10-10 12:31:21-06:00 [COMMAND_EXIT_CODE="0"]

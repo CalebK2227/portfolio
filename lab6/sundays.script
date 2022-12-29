@@ -1,0 +1,8 @@
+Script started on 2021-10-21 19:57:31-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="100" LINES="11"]
+]0;spike@SpikeDaComputer: ~/CSE113/lab6[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab6[00m$ exit./diffgcc -g -Wall difference.c -o diff[K[K[K[Ksundays[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@s[1@u[1@n[1@d[1@a[1@y[1@s
+]0;spike@SpikeDaComputer: ~/CSE113/lab6[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab6[00m$ ./sundays
+There are 171 sundays on the first of the month
+]0;spike@SpikeDaComputer: ~/CSE113/lab6[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab6[00m$ exit
+exit
+
+Script done on 2021-10-21 19:57:53-06:00 [COMMAND_EXIT_CODE="0"]

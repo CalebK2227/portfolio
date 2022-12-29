@@ -1,0 +1,26 @@
+Script started on 2021-09-23 21:27:26-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="131" LINES="13"]
+]0;spike@SpikeDaComputer: ~/CSE113/lab3[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab3[00m$ exit./lab3gcc -g -Wall lab3.c array.o -o lab3[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcredit.c -o credit
+]0;spike@SpikeDaComputer: ~/CSE113/lab3[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab3[00m$ gcc -g -Wall credit.c -o creditexit[K./lab3[K[K[K[Kcredit
+Please input the card number:
+4012888888881881
+card[0] = 4
+card[1] = 0
+card[2] = 1
+card[3] = 2
+card[4] = 8
+card[5] = 8
+card[6] = 8
+card[7] = 8
+card[8] = 8
+card[9] = 8
+card[10] = 8
+card[11] = 8
+card[12] = 1
+card[13] = 8
+card[14] = 8
+card[15] = 1
+Valid card
+]0;spike@SpikeDaComputer: ~/CSE113/lab3[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab3[00m$ exit
+exit
+
+Script done on 2021-09-23 21:29:54-06:00 [COMMAND_EXIT_CODE="0"]

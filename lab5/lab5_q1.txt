@@ -1,0 +1,11 @@
+It is best to use an array whenever you have a lot of the same type values. 
+For example, if you need to use the numbers 1-10000 in your program you should
+use an array, and for that example you could use a loop to initialize the array.
+Arrays are also better when trying to loop through values, as usually those
+values will be of the same type.
+
+It is best to use a struct when you have multiple values of different types.
+For example, if you need to store data about a person such as their age height
+and name a struct would be best because it would allow you to store int and
+char types. Structs do have a more complicated accessing sytem, especially if
+you have an array of structs.

@@ -1,0 +1,13 @@
+Script started on 2021-10-10 12:22:13-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="131" LINES="11"]
+]0;spike@SpikeDaComputer: ~/CSE113/lab5[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab5[00m$ ./array_struct
+Subject-A	Age-23	Height-74
+Index of min age - 2
+Index of min height - 4
+Index of max age - 0
+Index of max height - 3
+Average age - 21
+Average height - 68
+]0;spike@SpikeDaComputer: ~/CSE113/lab5[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab5[00m$ exit
+exit
+
+Script done on 2021-10-10 12:22:33-06:00 [COMMAND_EXIT_CODE="0"]

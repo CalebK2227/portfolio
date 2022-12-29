@@ -1,0 +1,13 @@
+Script started on 2021-10-10 12:24:09-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="131" LINES="11"]
+]0;spike@SpikeDaComputer: ~/CSE113/lab5[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab5[00m$ ./lab5_q2
+RED = 18
+ORANGE = 19
+YELLOW = 5
+GREEN = 6
+BLUE = 7
+INDIGO = 14
+VIOLET = 15
+]0;spike@SpikeDaComputer: ~/CSE113/lab5[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab5[00m$ exit
+exit
+
+Script done on 2021-10-10 12:24:23-06:00 [COMMAND_EXIT_CODE="0"]

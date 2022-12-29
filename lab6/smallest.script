@@ -1,0 +1,8 @@
+Script started on 2021-10-21 19:55:51-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="100" LINES="11"]
+]0;spike@SpikeDaComputer: ~/CSE113/lab6[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab6[00m$ exit./multgcc -g -Wall multiples.c -o mult[K[K[K[Ksmall[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@s[1@m[1@a[1@l[1@l[1@e[1@s[1@t
+]0;spike@SpikeDaComputer: ~/CSE113/lab6[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab6[00m$ ./small
+Smallest is 232792560
+]0;spike@SpikeDaComputer: ~/CSE113/lab6[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab6[00m$ exit
+exit
+
+Script done on 2021-10-21 19:56:15-06:00 [COMMAND_EXIT_CODE="0"]

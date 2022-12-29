@@ -1,0 +1,8 @@
+Script started on 2021-10-21 19:56:47-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="100" LINES="11"]
+]0;spike@SpikeDaComputer: ~/CSE113/lab6[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab6[00m$ exit./smallgcc -g -Wall smallest.c -o small[1P[1P[1P[1P[1P[1P[1P[1P[1@f[1P[1@d[1@i[1@f[1@f[1@e[1@r[1@e[1@n[1@c[1@e[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[Kdiff
+]0;spike@SpikeDaComputer: ~/CSE113/lab6[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab6[00m$ ./diff
+The difference is 25164150
+]0;spike@SpikeDaComputer: ~/CSE113/lab6[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab6[00m$ exit
+exit
+
+Script done on 2021-10-21 19:57:15-06:00 [COMMAND_EXIT_CODE="0"]

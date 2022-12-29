@@ -1,0 +1,8 @@
+Script started on 2021-10-21 20:06:37-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="100" LINES="11"]
+]0;spike@SpikeDaComputer: ~/CSE113/lab6[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab6[00m$ make
+gcc -g -Wall -c  zombie.c 
+gcc -g -Wall lab6.c zombie.o -o lab6
+]0;spike@SpikeDaComputer: ~/CSE113/lab6[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab6[00m$ exit
+exit
+
+Script done on 2021-10-21 20:06:43-06:00 [COMMAND_EXIT_CODE="0"]

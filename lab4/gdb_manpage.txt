@@ -1,0 +1,102 @@
+NAME
+        gdb - standard gcc debugging program
+
+SYNOPSIS 
+        gdb
+        or 
+        gdb [FILE]
+DESCRIPTION
+        Helps user debug programs with a multitude of commands.
+        Can display and run specific peices of code from programs in order
+        to help locate when and where issues are occuring and how to fix them. 
+
+        -file 
+            Tells gdb what file to access
+            ex: (gdb) file cool -gdb accesses the file cool
+
+        -backtrace --bt
+            Displays the call stack of the program
+            ex: (gdb) backtrace -displays the call stack of whatever file gdb
+            is currently accessing
+
+        -run --r 
+            Runs the accessed program and displays it's call stack
+            ex: (gdb) run -runs and displays the call stack of the accessed
+            program
+
+        -list --l 
+            Displays ten lines of the programs code, first displaying the
+            inside of main. Continued list commands will display the next
+            ten lines respectfully. Specific line output can also be
+            declared along with the command.
+            ex: (gdb) list 2,13 - displays the lines of code from line 2 to 
+            line 13
+
+        -help --h 
+            Displays the options for whatever command help is needed with.
+            ex: (gdb) help run -Displays the options for run
+        
+        -break --b 
+            Sets a breakpoint for the program. Then, whenever the program
+            is run it will run up until that breakpoint.
+            ex: (gdb) break 25 -Sets the breakpoint of the program at line 25,
+            so the code will run to line 24 then stop.
+
+        -continue --c 
+            continues the process that is being executed.
+            ex: if there was a set breakpoint and the program was run, then
+            (gdb) continue would continue running the program until the next
+            break or the end of the program.
+
+        -step --s 
+            Executes a single line of code from the program
+            Step n can also be used to run n number of lines
+            ex: (gdb) step 7 -executes seven lines of code from whatever
+            program gdb is accessing.
+
+        -bt full
+
+        -print --p 
+            Displays the value of variables in the program
+            ex: (gdb) print tmp -displays the value of tmp
+            Can also diplay the type of variable 
+            ex: (gdb) ptype tmp -displays the type of variable tmp is 
+
+        -frame
+            Displays the current frame of the program
+            frame n can also be used to diplay the frame of the n stack
+            ex: (gdb) frame 1 -displays the first frame of the program 
+
+        -kill
+            Kills the debugging session for the program being run
+            ex: (gdb) kill -kills the debugging session
+
+        -next
+            Executes a single line of code from the program
+            but skips over functions.
+            ex: (gdb) next -runs the next line of code in the program
+
+        -info b 
+            Displays the active breakpoints and information about them
+            ex: (gdb) info b -displays all the breakpoints and info about them
+            in the current session.
+
+        -disable/enable
+            Enables and disables whatever breakpoint is specified.
+            ex: (gdb) disable 1 -disables the first breakpoint
+            ex: (gdb) enable 1 -enables the first breakpoint
+
+        -delete
+            Deletes the specified breakpoint
+            ex: (gdb) delete 2 -deletes the second breakpoint
+
+        -watch
+            Watches the specified variable and pauses the program whenever that
+            variable changes.
+            ex: (gdb) watch a[i] -watches a[i] and will pause whenever the
+            value changes.
+
+        -cond breakpoint
+            Triggers a breakpoint if a certain criteria is met 
+            ex: (gdb) break 18 if y == x -causes the program to pause at
+            line 18 if y is equal to x.

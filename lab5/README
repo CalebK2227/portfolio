@@ -1,0 +1,26 @@
+Caleb Krcil
+2021-109-10
+Lab 5
+
+Purpose: Create programs that utilize structs and arrays to pass data, as well
+as understand enumeration
+
+Conclusion:
+
+a) What I learned:
+I learned how to use and initialize arrays and structs, take user input for
+those arrays and structs, and how to initialize variables using enumeration.
+
+b)Pair Programming
+Working with a partner for the prelab did help me understand structs better
+as well as the equations to calculate values based off the arrays and structs.
+
+b)Bug Report
+I had some issues with pointers and arrow form in the array struct file but 
+after going to tutoring we figured out that removing some of the pointers
+fixed the program as I may have incorrectly used them.
+
+
+d) Improvements that could be made
+My zodiac sign finder could be improved on a little bit, as my switch 
+statement is a little crowded but it works so thats good.

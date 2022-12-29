@@ -1,0 +1,8 @@
+Script started on 2021-10-21 19:54:51-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="100" LINES="11"]
+]0;spike@SpikeDaComputer: ~/CSE113/lab6[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab6[00m$ ./smallgcc -g -Wall smallest.c -o small[1P[1P[1P[1P[1P[1P[1P[1P[1@m[1@u[1@l[1@t[1@i[1@p[1@l[1@e[1@s[C[C[C[C[C[C[C[C[C[C[K[C[K[K[K[Kmult
+]0;spike@SpikeDaComputer: ~/CSE113/lab6[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab6[00m$ ./mult
+The sum is 234168
+]0;spike@SpikeDaComputer: ~/CSE113/lab6[01;32mspike@SpikeDaComputer[00m:[01;34m~/CSE113/lab6[00m$ exit
+exit
+
+Script done on 2021-10-21 19:55:22-06:00 [COMMAND_EXIT_CODE="0"]

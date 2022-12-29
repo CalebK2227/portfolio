@@ -1,0 +1,75 @@
+1.
+    print 1
+    x=2
+    y=1
+    z=2
+    print 2
+    x=2
+    y=2
+    z=1
+    print 3
+    x=2
+    y=2
+    z=2
+    print 4
+    x=0
+    y=-1
+    z=0
+    print 5
+    x=0
+    y=0
+    z=-1
+    print 6
+    x=0
+    y=-1
+    z=-1
+
+2.
+    The error in the code is on line 13 with the function, which in the program
+    is OS_HP-UX_print where instead of a - between HP and UX there should be a 
+    _ as the - makes the function OS_HP minus HP_print and c does not 
+    recognize it.
+
+3.
+    The output will be 1 because i is equal to one to begin with, and is 
+    printed out, then the statement is checked with false and then the 
+    program is false, if true, the program would run infinetaly
+
+4.
+    The output will be f is not 1.0 because when f goes through the for loop,
+    the f at the end will go away therefore f cannot be equal to 1.0f.
+
+5.
+    int a cannot be two values at the same time, either it must be an array
+    or just one value.
+
+6.
+    It would technically print nothing as stdio.h is not inlcuded but if it is
+    it will print that the size of the array is 8 because it will print how
+    much memory the specific unsigned long takes up. 
+
+7.
+    The difference is the space in the second scanf, which if removed will
+    cause the program to skip over it because it reads the enter from the
+    previous printf as the input and not allow the user to input.
+
+8.
+    The output will be
+    i : 10
+    sizeof(i++) is: 4
+    i : 10
+
+9.
+    The program doesnt print out 02-02-2012 because the printf is not zero
+    padded and the feild width is not defined. To fix it you would put
+    %02d-%02d-%d in the print statement.
+
+10.
+    To fix the program add a negative sign to the i in the if statement 
+    as in -i < n,
+
+11.
+    The program will not run properly and give a floating point exception
+
+12.
+    The output will be 8

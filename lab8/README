@@ -1,0 +1,25 @@
+Caleb Krcil
+2021-6-11
+Lab 8
+
+Purpose: Create programs that utilize linked lists and allocate and free data
+properly.
+
+Conclusion:
+
+a) What I learned:
+I learned how to create linked lists with data in them and perform basic 
+operations on them like adding, deleting, and finding nodes. I also learned
+how to properly allocate and free data.
+
+b)Pair Programming
+Working with a partner for the prelab did help me understand how to add and
+delete nodes from a linked list.
+
+b)Bug Report
+No bugs as far as I know
+
+
+d) Improvements that could be made
+My collatz.c program could probably be a little more effecient and make
+better use of the tail pointer mentioned in the lab.
